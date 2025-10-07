@@ -1,0 +1,8 @@
+fastapi==0.115.0
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+python-dotenv
+insightface
+faiss-cpu
+opencv-python

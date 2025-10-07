@@ -6,3 +6,6 @@ python-dotenv
 insightface
 faiss-cpu
 opencv-python
+numpy
+python-multipart
+face_recognition

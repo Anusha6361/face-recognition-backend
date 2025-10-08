@@ -1,5 +1,7 @@
 fastapi==0.115.0
 uvicorn[standard]
+# IMPORTANT: Use gunicorn for production stability
+gunicorn
 sqlalchemy
 psycopg2-binary
 python-dotenv
